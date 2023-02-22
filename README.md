@@ -2,9 +2,6 @@
 
 ## About Project
 
-<img src="https://github.com/aryoyudhanto/group1-socialmedia-app/blob/main/src/assets/Screenshot%20(256).png"alt="Logo">
-<img src="https://github.com/aryoyudhanto/group1-socialmedia-app/blob/main/src/assets/Screenshot%20(253).png"alt="Logo">
-
 This is is a website social media who want an internet-based form of communication. Social media platforms allow users to have conversations, share information and create web content.
 
 * Here link for UI Desain: [figma](https://www.figma.com/file/hBmWNkNqQxSV7GnCNZDgek/Social-Media-App?node-id=0%3A1&t=9ZpLZXIpDHB03Ifa-1)
